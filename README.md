@@ -2,9 +2,12 @@
 
 Welcome to my Learning Arc. This repository aims to provide a comprehensive resource for understanding and implementing key concepts in machine learning and deep learning.
 
+PLEASE - if you see any slop, my errata, please raise an issue or create a pull request!
+
+Questions? Message me by [email](mailto:abreag02@gmail.com)!
+
 ## Goals
 
-The primary goal of the Learning Arc project is to:
+The primary goal of my Learning Arc is to:
 - Provide clear explanations and implementations of machine learning concepts.
-- Create a collaborative environment where learners can contribute and share their knowledge.
 - Foster a deeper understanding of practical applications in the field.
