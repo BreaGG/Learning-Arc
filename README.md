@@ -1,3 +1,5 @@
+<img title="learning arc" alt="Learning arc" src="/images/main.jpg">
+
 # Learning Arc
 
 Welcome to my Learning Arc. This repository aims to provide a comprehensive resource for understanding and implementing key concepts in machine learning and deep learning.
