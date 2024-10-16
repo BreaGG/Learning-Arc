@@ -1,6 +1,5 @@
 # Intro To Tensors
 > *A dive into the core concept behind modern deep learning: Tensors.*
----
 ## Understanding the Concept and Importance of Tensors in Machine Learning
 
 > Learning Resource: *[3Blue1Brown's Explanation of Tensors](https://www.youtube.com/watch?v=f5liqUk0ZTw)* and *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron*

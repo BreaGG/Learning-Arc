@@ -1,6 +1,5 @@
 # Intro To Neural Network
 > *A brief review after about neural networks.*
-----
 ## Key Points on the History, Motivation, and Evolution of Deep Learning
 
 > Learning Resource: *[Lecture: History, motivation, and evolution of Deep Learning](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=3&t=4939s)* by NYU, Yann LeCun
