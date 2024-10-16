@@ -1,3 +1,4 @@
+# How Machines Learn
 ----
 
 To understand how a machine can learn from the ground up, we can break it down into fundamental concepts and mathematical representations that illustrate the learning process.
