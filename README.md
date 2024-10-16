@@ -1,4 +1,4 @@
-<img title="learning arc" alt="Learning arc" src="/images/main.jpg">
+<img title="learning arc" alt="Learning arc" src="/images/main.png">
 
 # Learning Arc
 
