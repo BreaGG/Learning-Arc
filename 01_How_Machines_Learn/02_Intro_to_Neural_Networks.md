@@ -104,8 +104,8 @@ Kunihiko Fukushima's early models for visual recognition laid the groundwork for
 <div align='center'>
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWcZyKciourd227EsH5mT-wi7dty72houyBg&s'><br>
 <em> LeCun's LeNet architecture</em>
-<br>
 </div>
+<br>
 
 These architectures use shared weights and kernels to perform convolutions over input data, followed by pooling. CNNs have since been used for tasks ranging from object detection to self-driving cars.
 
@@ -126,8 +126,9 @@ $$
 Manifold learning algorithms, like **t-SNE**, aim to reduce data dimensions while preserving the structure of the data manifold.
 
 <div align="center">
-<img width=400 src='https://www.researchgate.net/profile/Zhaoyu-Xu-4/publication/341724327/figure/fig1/AS:896372609912832@1590723292607/Transformation-from-3-D-Samples-to-2-D-subspaces-Zhou-2016-Among-all-the-dimension.jpg'>
+<img width=400 src='https://www.researchgate.net/publication/341724327/figure/fig1/AS:896372609912832@1590723292607/Transformation-from-3-D-Samples-to-2-D-subspaces-Zhou-2016-Among-all-the-dimension.jpg'>
 <em style='font-size:12'>Transformation from 3D Samples to 2D subspaces Zhou 2016 Among all the dimension</em>
 </div>
+<br>
 
 Deep learning allows us to discover these manifolds, extract features, and classify data more effectively.
