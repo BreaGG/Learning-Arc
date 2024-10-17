@@ -4,7 +4,7 @@ To understand how a machine can learn from the ground up, we can break it down i
 ### 1. Understanding Data and Features
 - **Data Representation**: Data is typically represented as a matrix where each row is an example (or data point) and each column is a feature (or attribute) of that example.
 $$
-    X = \begin{bmatrix}
+  X = \begin{bmatrix}
   x_{11} & x_{12} & \ldots & x_{1n} \\
   x_{21} & x_{22} & \ldots & x_{2n} \\
   \vdots & \vdots & \ddots & \vdots \\
