@@ -9,7 +9,7 @@
 Neural networks are inspired by the brain's function, but, like planes compared to birds, the inner mechanics are vastly different. In 1943, McCollough and Pitts introduced the concept of binary neurons (perceptrons) that could perform logical operations, akin to a Boolean circuit.
 
 <div align="center" width=500>
-<img src='https://www.researchgate.net/publication/356858632/figure/fig1/AS:1098794657693698@1638984469361/McCulloch-and-Pitts-Neuron-Model-13.ppm'/>
+<img src='https://d3i71xaburhd42.cloudfront.net/934684fe16222f770c18dd2dcd5e66174e4d48ac/2-Figure1-1.png'/>
 <em style='font-size:12'>McCulloch and Pitts Neuron Model 13</em>
 </div>
 <br>
@@ -126,8 +126,8 @@ $$
 Manifold learning algorithms, like **t-SNE**, aim to reduce data dimensions while preserving the structure of the data manifold.
 
 <div align="center">
-<img width=400 src='https://www.researchgate.net/publication/341724327/figure/fig1/AS:896372609912832@1590723292607/Transformation-from-3-D-Samples-to-2-D-subspaces-Zhou-2016-Among-all-the-dimension.jpg'>
-<em style='font-size:12'>Transformation from 3D Samples to 2D subspaces Zhou 2016 Among all the dimension</em>
+<img width=400 src='https://ars.els-cdn.com/content/image/1-s2.0-S2215016120303137-gr1.jpg'>
+<em style='font-size:12'>Uncovering High-dimensional Structures of Projections from Dimensionality Reduction Methods</em>
 </div>
 <br>
 
