@@ -72,18 +72,19 @@ For example, in a **Convolutional Neural Network (CNN)**:
 - The input tensor could be a 3D tensor representing an image: \( (height, width, channels) \).
 - After applying a convolutional layer, the output tensor will have new dimensions, depending on the filter sizes and strides used.
 
+
 ### Tensor Operations
 
 Tensors can be manipulated using a variety of operations, such as:
 
-1. **Element-wise Addition**:
+1. **Element-wise Addition**:  
    Adding two tensors of the same shape:
    
    $$
    \mathbf{C} = \mathbf{A} + \mathbf{B}
    $$
 
-2. **Matrix Multiplication**:
+2. **Matrix Multiplication**:  
    The classic matrix product for rank-2 tensors:
    
    $$
@@ -92,18 +93,18 @@ Tensors can be manipulated using a variety of operations, such as:
    
    where \( \mathbf{A} \in \mathbb{R}^{m \times n} \) and \( \mathbf{B} \in \mathbb{R}^{n \times p} \), yielding \( \mathbf{C} \in \mathbb{R}^{m \times p} \).
 
-3. **Dot Product**:
+3. **Dot Product**:  
    For two vectors \( \mathbf{a}, \mathbf{b} \in \mathbb{R}^n \):
    
    $$
    \mathbf{a} \cdot \mathbf{b} = \sum_{i=1}^{n} a_i b_i
    $$
 
-4. **Tensor Reshaping**:
+4. **Tensor Reshaping**:  
    Changing the shape of a tensor without altering its data:
    
    $$
-   \mathbf{T}_{reshaped} = \text{reshape}(\mathbf{T}, (d'_1, d'_2, \ldots, d'_n))
+   \mathbf{T}_{\text{reshaped}} = \text{reshape}(\mathbf{T}, (d'_1, d'_2, \ldots, d'_n))
    $$
 
 This is particularly important in neural networks, where tensors often need to be flattened or reshaped to fit the next layer.
