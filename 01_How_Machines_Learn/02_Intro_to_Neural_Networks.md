@@ -9,7 +9,7 @@
 Neural networks are inspired by the brain's function, but, like planes compared to birds, the inner mechanics are vastly different. In 1943, McCollough and Pitts introduced the concept of binary neurons (perceptrons) that could perform logical operations, akin to a Boolean circuit.
 
 <div align="center" width=500>
-<img src='../images/2-Figure1-1.png'/>
+<img width=400 src='../images/2-Figure1-1.png'/><br>
 <em style='font-size:12'>McCulloch and Pitts Neuron Model 13</em>
 </div>
 <br>
